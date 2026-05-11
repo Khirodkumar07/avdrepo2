@@ -1,0 +1,1 @@
+print("sagar n khirod both are very resilient")
