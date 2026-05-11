@@ -1,1 +1,1 @@
-print("khirod is a bhala pila")
+print("sagar n khirod both are very resilient")
