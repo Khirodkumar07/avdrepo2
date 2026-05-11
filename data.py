@@ -1,0 +1,1 @@
+print("khirod is a bhala pila")
